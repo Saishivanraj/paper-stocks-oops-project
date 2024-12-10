@@ -21,13 +21,12 @@ To run this project, ensure you have the following installed:
 - Java Development Kit (JDK): Version 8 or later
 - SQLite Database Driver: Included in the project (`sqlite-jdbc-3.47.1.0.jar`)
 - A text editor, Java IDE (e.g., IntelliJ IDEA, Eclipse), or terminal for running Java programs.
----
 
 Installation and Usage:
 
 Installation
 1. Clone or Download the Project:
-   - Extract the provided `.zip` file to your working directory, or download all .java files.
+   - Extract the provided `.zip` file to your working directory, or download all .java files. (to extract PaperStockApp3.zip click on it and then click show raw)
 
 2. Compile the Code:
    - Open a terminal and navigate to the `src` directory containing the `.java` files.
