@@ -8,6 +8,7 @@ Table of Contents:
 3. [Requirements]
 4. [Installation and Usage]
 Description:
+note: ignore finance.db file for now
 
 The application targets stock investments and basically helps users register, log in and manage their stock portfolios by adding or removing stocks. Their data is thereon stored in an SQLite database and features an appealing GUI for operations. The project even contains examples for such well-known stock names as Google (GOOGL), Microsoft (MSFT) and Amazon (AMZN) etc..
 
